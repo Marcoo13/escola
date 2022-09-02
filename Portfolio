@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>
+        Create a Portfolio Gallery
+        using HTML and CSS
+    </title>
+     
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+</head>
+ 
+<body>
+      
+    <!-- title and tag -->
+    <div class="container">
+        <h1>Portfolio</h1>
+        <h3>CV online de Marco Yuri</h3>
+        <hr>
+        <img src=
+                    
+                        alt="" style="width:100%">
+        <!-- Content of the body-->
+            <div class="row">
+            <div class="column">
+                <div class="content">
+                    <h3>
+                        <a href="#">Quem eu sou ?</a>
+                    </h3>
+<p>
+    Nascido em São Paulo capital, estudei toda minha vida 
+em escolas publicas. Trabalhando em diversas áreas des de muito novo.
+Com muito esforço consegui iniciar na faculdade de Analise e desenvolvimento de sistemas.
+                    </p>
+ 
+ 
+                </div>
+            </div>
+             
+            <div class="column">
+                <div class="content">
+                    
+                    <alt="" style="width:100%">
+                    <h3>
+                        <a href="#">Experiencias Profissionais</a>
+                    </h3>
+<p>
+    (campo vazio, em breve novidades)
+                       
+                    </p>
+ 
+ 
+                </div>
+            </div>
+             
+            <div class="column">
+                <div class="content">
+                   
+                        <alt="" style="width:100%">
+                    <h3>
+                        <a href="#">Contatos</a>
+                    </h3>
+                     
+                     
+ 
+<p>
+(Inserir aqui botoes de contato Wpp, email)
+   </p>
+ 
+ 
+                </div>
+            </div>
+             
+            <div class="column">
+                <div class="content">
+                        <alt="" style="width:100%">
+                    <h3>
+                        <a href="#">Redes Social</a>
+                    </h3>
+                     
+                     
+ 
+<p>
+(Inserir botoes de acesso ao instagram e facebook)                       
+</p>
+ 
+ 
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+  
+</html>
